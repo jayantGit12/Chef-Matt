@@ -1,0 +1,9 @@
+.Hero_slider_B .swiper-pagination-bullet{
+    font-size: 33px;
+    width: 12px;
+    height: 12px;
+    background: #fff;
+}
+.Hero_slider_B .swiper-pagination-horizontal{
+    left: 7%;
+}

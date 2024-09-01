@@ -1,0 +1,22 @@
+.Online_section {
+    max-width: 1360px;
+    margin-left: auto;
+}
+
+.AfterUnder::after {
+        position: absolute;
+        content: '';
+        height: 3px;
+        bottom: -4px;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 78px;
+        background: #130F0C;
+}
+.Online_section .swiper-pagination-bullet {
+    font-size: 33px;
+    width: 12px;
+    height: 12px;
+    background: #A7A7A7;
+}
